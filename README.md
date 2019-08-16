@@ -1,4 +1,4 @@
 # luci-theme-argon
 A new Luci theme for LEDE/OpenWRT
 # Screenshot
-![image](http://boss.verykaka.com/blanco/login.jpg)
+![image](https://github.com/Meroser/luci-theme-argon/blob/master/luci-theme-argon.png?raw=true)
